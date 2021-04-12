@@ -1,13 +1,14 @@
-# portifolio-site
-Portifólio do desenvolvedor
+# Portfolio-site
 
-## Tarefas
+Developer's Portfólio
 
-O controle das tarefas desse projeto será realizado no GitHub
+## Tasks
 
-## Icones
+The tasks of this project will be carried out on GitHub.
 
-:package: nova funcionalidade
-:up: atualização
-:beattle: correção de bug
+## Icons
+
+:package: new functionality
+:up: update
+:beattle: bug fix
 :checkered_flag: release
