@@ -1,6 +1,6 @@
 # Portfolio-site
 
-Developer's Portfólio
+Developer's Portfolio
 
 ## Tasks
 
@@ -10,5 +10,5 @@ The tasks of this project will be carried out on GitHub.
 
 - :package: new functionality
 - :up: update
-- :beettle: bug fix
+- :beetle: bug fix
 - :checkered_flag: release
