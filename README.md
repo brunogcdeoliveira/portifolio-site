@@ -12,3 +12,4 @@ The tasks of this project will be carried out on GitHub.
 - :up: update
 - :beetle: bug fix
 - :checkered_flag: release
+
